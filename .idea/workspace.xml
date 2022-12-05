@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4f26c1-3fb6-4166-8923-d9e948ebfdc0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="ae4f26c1-3fb6-4166-8923-d9e948ebfdc0" name="Changes" comment="Initial task implementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TriangleHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TriangleHeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TriangleStateException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TriangleStateException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TriangleHeightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TriangleHeightTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TriangleHeightTest">
+  <component name="RunManager" selected="Application.TriangleHeight">
     <configuration name="TriangleHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TriangleHeight" />
       <module name="TDDTask1-1NoOOP.main" />
@@ -153,6 +149,29 @@
       <option name="presentableId" value="Default" />
       <updated>1670147158750</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial task implementation">
+      <created>1670235310462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670235310462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial task implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial task implementation" />
   </component>
 </project>
