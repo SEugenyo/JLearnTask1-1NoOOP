@@ -1,4 +1,7 @@
 package org.example;
 
-public class TriangleException extends Exception {
+public class TriangleStateException extends Exception {
+    public TriangleStateException(String message) {
+        super(message);
+    }
 }
