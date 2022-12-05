@@ -56,7 +56,7 @@ public class TriangleHeight {
     }
 
     private static boolean isAnySideGreaterOrEqualsSumOfOthers(double sideA, double sideB, double sideC) {
-        return (sideA + sideB <= sideC) || (sideA + sideC <= sideB) || (sideB + sideC <= sideA);
+        return (sideC >= sideA + sideB) || (sideB >= sideA + sideC) || (sideA >= sideB + sideC);
     }
 
     private static void calculateHeights() {
