@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4f26c1-3fb6-4166-8923-d9e948ebfdc0" name="Changes" comment="update workspace.xml">
+    <list default="true" id="ae4f26c1-3fb6-4166-8923-d9e948ebfdc0" name="Changes" comment="clarify triangle side check expression">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TriangleHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TriangleHeight.java" afterDir="false" />
     </list>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670237878381</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="clarify triangle side check expression">
+      <created>1670238235544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670238235544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +188,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial task implementation" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="clarify triangle side check expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="clarify triangle side check expression" />
   </component>
 </project>

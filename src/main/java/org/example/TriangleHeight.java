@@ -3,16 +3,16 @@ package org.example;
 import java.util.Scanner;
 
 public class TriangleHeight {
+    public enum TRIANGLE_SIDE {
+        A, B, C
+    }
+
     private static double sideA;
     private static double sideB;
     private static double sideC;
     private static double heightToA;
     private static double heightToB;
     private static double heightToC;
-
-    public enum TRIANGLE_SIDE {
-        A, B, C
-    }
 
     public static void main(String[] args) {
         readTriangleSidesFromInput();
